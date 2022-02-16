@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /** Commit Class.
- * @author Xidong Wu.
+ * @author Yuqiong Ji.
  */
 
 public class Commit implements Serializable {
