@@ -15,7 +15,7 @@ import java.util.TreeMap;
 
 /**
  * Gitlet class.
- * @author Xidong Wu.
+ * @author Yuqiong Ji.
  */
 public class Command implements Serializable {
 
