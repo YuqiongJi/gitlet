@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 
 /** Driver class for Gitlet, the tiny stupid version-control system.
- *  @author Xidong Wu
+ *  @author Yuqiong Ji
  */
 public class Main {
 
